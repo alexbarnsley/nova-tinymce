@@ -3,6 +3,7 @@ window.tinymce = tinymce;
 
 // A theme is also required
 import 'tinymce/themes/silver';
+import 'tinymce/icons/default/icons';
 
 // Any plugins you want to use has to be imported
 import 'tinymce/plugins/advlist';
